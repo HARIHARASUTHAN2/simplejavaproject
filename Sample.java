@@ -1,11 +1,4 @@
-// Java Program to Check if Given Integer is Odd or Even
-// Using Bitwise OR
-
-// Importing required classes
-import java.util.*;
-
-// Main class
-public class GFG {
+public class Sample{
 
 	// Main driver method
 	public static void main(String[] args)
